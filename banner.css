@@ -3,10 +3,29 @@
     margin: 0px;
     border: 0px;
 }
-.banner{
+.banner1{
     border: none;
     text-align: center;
     border: none;
     position: relative;
-    top: 30px;
+    top: 30px; 
+    display: block;
+}
+.banner2{
+    position: relative;
+    top: 350px;
+    text-align: center;
+}
+.banner3{
+    position: relative;
+    top: 350px;
+    
+}
+#quantiimg1{
+    position: relative;
+    left: 600px;
+}
+#quantiimg2{
+    position: relative;
+    left: 600px;
 }
